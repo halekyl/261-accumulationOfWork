@@ -1,5 +1,6 @@
 # 261-Accumulation OOf Projects
-Implementation of Linked Lists and Various ADTs using Linked Lists
+Implementation of Linked Lists and Various ADTs using Linked Lists*
+*plus other work
 
 
 Deque and Bag ADT using Singly Linked List:

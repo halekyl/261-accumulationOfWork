@@ -1,4 +1,4 @@
-# 261-Accumulation OOf Projects
+# 261-Accumulation Of Projects
 Implementation of Linked Lists and Various ADTs using Linked Lists*
 *plus other work
 
